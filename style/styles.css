@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono');
+body{
+font-family: 'IBM Plex Mono', monospace, bold;
+display: grid;
+}
+
+
+.parallax {
+    /* The image used */
+
+background-image: url('../images/background1.jpg');
+    /* Set a specific height */
+    height: 500px;
+
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+.nav-header{
+  display:flex;
+  flex-flow: row;
+  justify-content: space-around;
+  background-color: transparent;
+  -webkit-box-shadow: 0 1px 0px #888888;
+  -moz-box-shadow: 0 1px 0px #F5F5DC;
+  box-shadow: 0 0.5px 0px #F5F5DC;
+  position:fixed;
+  top:0;
+  width:100%
+
+}
+
+.nav-header li{
+  align-self: center;
+  text-align: center;
+}
+
+ul{
+  list-style-type: none;
+}
+
+li{
+  list-style-type: none;
+}
+
+h1{
+  text-align: right;
+  text-decoration-style: double;
+  font-size: 6em;
+  margin: 1em .5em .5em .5em
+}
+
+.tagline{
+  font-size: 1.5em;
+  text-align: center;
+}
+
+article{
+display:flex;
+justify-content: space-around;
+margin: 1;
+
+}
+
+.article-item{
+  display:flex;
+
+}
