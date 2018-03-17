@@ -10,7 +10,7 @@ font-weight:bold;
 .parallax {
     /* The image used */
 
-background-image: url('../images/blgbackground2.jpg');
+background-image: url('../images/background7.jpg');
     /* Set a specific height */
     height: 500px;
 
@@ -87,4 +87,8 @@ align-content: center;
 
 h2{
   text-decoration: underline;
+}
+
+footer{
+  display:flex;
 }

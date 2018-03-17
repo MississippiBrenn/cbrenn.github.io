@@ -27,7 +27,7 @@ background-image: url('../images/blgbackground2.jpg');
   flex-flow: row;
   justify-content: space-around;
   background-color: beige;
-  opacity: 0.7 
+  opacity: 0.7
   -webkit-box-shadow: 0 1px 0px #888888;
   -moz-box-shadow: 0 1px 0px #F5F5DC;
   box-shadow: 0 0.5px 0px #F5F5DC;
@@ -78,6 +78,8 @@ align-content: center;
   display:flex;
   flex-flow: wrap;
   justify-content: center;
+  align-content: center;
+  text-align: center;
 
 }
 .blog-item{
@@ -87,4 +89,8 @@ align-content: center;
 
 h2{
   text-decoration: underline;
+}
+
+footer{
+  display:flex;
 }
