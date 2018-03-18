@@ -23,7 +23,7 @@ background-image: url('../images/background7.jpg');
 }
 
 
-.tagline.portfolio{
+#tagline{
   font-size: 3em;
 }
 
@@ -53,6 +53,7 @@ footer{
 
 
 .portfolio-item{
+  display:wrap;
     text-align: center;
     margin: 1em;
     width:30%;

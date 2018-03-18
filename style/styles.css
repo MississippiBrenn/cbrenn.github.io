@@ -85,7 +85,7 @@ h1{
 
 
 
-.tagline{
+#tagline{
   font-size: 2em;
   text-align: center;
   margin: 1em;
@@ -136,8 +136,13 @@ footer{
   display:flex;
   justify-content: flex-end;
   text-align: center;
+
 }
 
 footer img{
   max-height: 20px
+}
+
+footer li{
+  margin: 0.3em
 }
