@@ -31,9 +31,7 @@ background-image: url('../images/background3.jpg');
   flex-flow: row;
   justify-content: space-around;
   background-color: transparent;
-  -webkit-box-shadow: 0 1px 0px #888888;
-  -moz-box-shadow: 0 1px 0px #F5F5DC;
-  box-shadow: 0 0.5px 0px #F5F5DC;
+
   position:fixed;
   top:0;
   width:100%
