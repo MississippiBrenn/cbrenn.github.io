@@ -101,12 +101,13 @@ align-content: center;
 
 .blog-item:hover{
   background-color: grey;
+  border-radius: 5%;
 }
 
 .blog-item a{
   font-size: 2em;
   text-decoration: none;
-
+color: #7B68EE;
 }
 h2{
   text-decoration: underline;
