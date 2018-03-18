@@ -6,7 +6,10 @@
         disply:flex;
         flex-direction: column;
         width:1;
-    }
+      }
+      h1{
+        align-text:right;
+      }
 }
 
 body{
