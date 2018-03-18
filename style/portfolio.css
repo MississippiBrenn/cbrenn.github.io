@@ -74,7 +74,7 @@ align-content: center;
 }
 
 
-.blog-container{
+.portfolio-container{
   display:flex;
   flex-flow: wrap;
   justify-content: center;
@@ -91,4 +91,30 @@ h2{
 
 footer{
   display:flex;
+  justify-content:
+
+}
+
+
+.portfolio-item{
+    text-align: center;
+    margin: 1em;
+    width:30%;
+}
+
+.portfolio-item a{
+  font-size: 1em;
+  text-decoration: none;
+
+
+}
+
+.portfolio-item:hover{
+  background-color: grey;
+}
+
+footer{
+  display:flex;
+  justify-content: flex-end;
+  text-align: center;
 }

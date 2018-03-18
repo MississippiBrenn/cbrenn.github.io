@@ -87,10 +87,20 @@ align-content: center;
 
 }
 
+.blog-item:hover{
+  background-color: grey;
+}
+
+.blog-item a{
+  font-size: 2em;
+  text-decoration: none;
+}
 h2{
   text-decoration: underline;
 }
 
 footer{
   display:flex;
+  justify-content: flex-end;
+  text-align: center;
 }
