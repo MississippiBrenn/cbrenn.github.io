@@ -1,5 +1,14 @@
 
 @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono');
+
+@media only screen and (orientation: landscape) {
+    .mobile {
+        disply:flex;
+        flex-direction: column;
+        width:1;
+    }
+}
+
 body{
 font-family: 'IBM Plex Mono', monospace;
 display: grid;
