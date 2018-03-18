@@ -62,24 +62,6 @@ ul a{
   color:#005253;
 }
 
-
-/* .nav-header{
-  display:flex;
-  flex-flow: row;
-  justify-content: space-around;
-  background-color: transparent;
-
-  position:fixed;
-  top:0;
-  width:100%
-
-} */
-
-/* .nav-header li{
-  align-self: center;
-  text-align: center;
-} */
-
 ul{
   list-style-type: none;
 }
