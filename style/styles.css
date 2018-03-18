@@ -26,7 +26,7 @@ background-image: url('../images/background3.jpg');
 
 
 
-.nav-header{
+/* .nav-header{
   display:flex;
   flex-flow: row;
   justify-content: space-around;
@@ -36,12 +36,12 @@ background-image: url('../images/background3.jpg');
   top:0;
   width:100%
 
-}
+} */
 
-.nav-header li{
+/* .nav-header li{
   align-self: center;
   text-align: center;
-}
+} */
 
 ul{
   list-style-type: none;

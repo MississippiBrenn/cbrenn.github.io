@@ -119,18 +119,20 @@ footer{
 .portfolio-item a{
   font-size: 3em;
   text-decoration: none;
+  color:#7B68EE
+
 
 
 }
 
 .portfolio-item a:visited{
-
   color:#005253;
 
 }
 
 .portfolio-item:hover{
   background-color: grey;
+  border-radius:5%;
 }
 
 footer{
