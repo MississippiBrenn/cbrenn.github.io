@@ -22,30 +22,44 @@ background-image: url('../images/background7.jpg');
     background-size: cover;
 }
 
+header{
+  width: 100%
+  margin: 10%
+}
+
 
 .nav-header{
   display:flex;
   flex-flow: row;
   justify-content: space-around;
-  background-color: beige;
-  -webkit-box-shadow: 0 1px 0px #888888;
-  -moz-box-shadow: 0 1px 0px #F5F5DC;
-  box-shadow: 0 0.5px 0px #F5F5DC;
+  background-color: #ffdab9;
+
   position:fixed;
   top:0;
   width:100%
+
 
 }
 
 ul {
   list-style-type: none;
+
+
+}
+
+ul a{
+  text-decoration: none;
 }
 
 .nav-header li{
   align-self: center;
   text-align: center;
+  color:#dab9ff;
 }
 
+.nav-header li a:visited{
+  color:#005253;
+}
 
 h1{
   text-align: right;
@@ -74,7 +88,7 @@ align-content: center;
 }
 
 
-.blog-container{
+.portfolio-container{
   display:flex;
   flex-flow: wrap;
   justify-content: center;
@@ -91,4 +105,40 @@ h2{
 
 footer{
   display:flex;
+  justify-content:
+
+}
+
+
+.portfolio-item{
+    text-align: center;
+    margin: 1em;
+    width:30%;
+}
+
+.portfolio-item a{
+  font-size: 3em;
+  text-decoration: none;
+
+
+}
+
+.portfolio-item a:visited{
+
+  color:#005253;
+
+}
+
+.portfolio-item:hover{
+  background-color: grey;
+}
+
+footer{
+  display:flex;
+  justify-content: flex-end;
+  text-align: center;
+}
+
+footer img{
+  max-height: 20px
 }
