@@ -56,8 +56,6 @@ header{
 
 ul {
   list-style-type: none;
-
-
 }
 
 ul a{
@@ -74,10 +72,6 @@ ul a{
   color:#005253;
 }
 
-ul{
-  list-style-type: none;
-}
-
 li{
   list-style-type: none;
 }
@@ -89,12 +83,16 @@ h1{
   margin: 1em .1em 1em .5em
 }
 
+
+
 .tagline{
   font-size: 2em;
   text-align: center;
   margin: 1em;
 }
-
+main.site-container{
+  width:100%;
+}
 article{
 display:flex;
 justify-content: space-around;
@@ -102,11 +100,6 @@ margin: 1;
 align-content: center;
 }
 
-/* article:hover{
-  background: beige;
-  opacity:.5;
-  z-index:-1;
-} */
 
 h2{
   text-align: center
