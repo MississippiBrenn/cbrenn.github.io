@@ -22,16 +22,24 @@ background-image: url('../images/blgbackground2.jpg');
 }
 
 
-
+.blog-text {
+  background-color: beige;
+  opacity: .8;
+  padding: 8px
+}
 
 .tagline{
-
   font-size: 3em;
 }
 
 .hover-beige:hover{
   background: beige;
   opacity:.7;
+}
+
+
+.blog-entry #body{
+  display: block;
 }
 
 
@@ -64,6 +72,7 @@ background-image: url('../images/blgbackground2.jpg');
   text-decoration: none;
 color: #7B68EE;
 }
+
 h2{
   text-decoration: underline;
 }
