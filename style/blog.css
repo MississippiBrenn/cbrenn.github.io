@@ -42,6 +42,15 @@ background-image: url('../images/blgbackground2.jpg');
   display: block;
 }
 
+.linkTOC:hover {
+background: white;
+opacity:.6;
+}
+
+.linkTOC{
+  font-size: 2em;
+}
+
 
 .blog-container{
   display:flex;
@@ -75,6 +84,15 @@ color: #7B68EE;
 
 h2{
   text-decoration: underline;
+}
+
+.blog-TOC li:hover{
+  background-color: grey;
+  border-radius: 5%;
+}
+
+.blog-TOC li{
+    font-size: 2em;
 }
 
 footer{
