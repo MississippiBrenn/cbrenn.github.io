@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="../style/styles.css">
+  <link rel="stylesheet"
+  href="../style/blog.css">
+</head>
+<body class="parallax blog mobile" title = "background blurry image of christmas tree lights on palm tree">
+
+  <header>
+    <nav>
+      <ul class = "nav-header">
+        <li><a href="../portfolio.html">portfolio</a>
+        </li>
+        <li><a href="../index.html">caraencoded</a>
+        </li>
+        <li><a href="../about.html">about</a></li>
+      </ul>
+    </nav>
+  </header>
+  <body class = "blog-entry">
+  <p>
+    <h2>Transposation</h2>
+    <h3>Jan 19, 2019</h3>
+  </p>
+    <article class = "blog-text">
+    <section>
+      <p><i>
+        <aside>
+         I was walking along the waterfront, after the sculpture garden but before the dock for the big ships. As the wind moved through the trees I wanted to breathe with it, and sat looking out in a well carved bench. There was a small piece of paper stuck between the slats on the bench. It was folded like we folded notes in middle school. A rectangle tucked into itself with a triangle. 
+        </aside>
+        </i>
+      </p>
+      Iris, </br>
+      <p>
+        There were so many birds in my dreams last night. All shapes, different colors. Perched and expectant on a perspective so symmetrical in it’s growing distance a child must have drawn it. 
+      </p>
+      <p>
+        They say the best songs are written by people who don’t experience the things they are writing about. Poor people write the best songs about money, lonely people write the best songs about love. 
+      </p>
+      <p>
+        Because it’s not real, not what they’re experiencing. It’s a projection of what they think a reality would be, and it lines up with their projections of their listeners. Their audience also has not experienced it, also reflects on things they don’t have in the same way, in the same manner, in the same possession of the unpossessed.  
+      </p>
+      <p>
+        Is that why my love for you seemed so true? Did I love you, or was I as good at pretending my love for you as you were yourself? Visualizing and capturing that moment like a story book, sweeping in it’s frame and depth unashamed in what it didn’t know. Only true in what it did not know. This ignorance, a celebration of unity.       </p>
+      <p>
+       Maybe I will leave you during Burning Man, escape on a bus up north while you take hallucinogens in the desert. I could look down from my bus seat and see travelers who have left early, sharing the freeway with my ride to freedom. The dust of the playa still sticking to their cars and bodies like they haven’t slept or showered for the 12 hour drive. 
+      </p>
+      <p>
+       And if I was gone when you return. Would you know then that I loved you? Enough to preserve our fallacy, the connection we could express like a well played love song. Would you know then how I loved myself? How my preservation overcame our gossamer game of shadow emotions. Tokens played out. In verse I could celebrate my freedom, my healing away from you.  Would you know then how I loved myself for leaving you? Or at least how I could write as if I do. 
+     </p>
+      <p>
+        Love, </br>
+        Lotus
+      </p>
+    </section>
+  </article>
+  <aside class = "linkTOC">
+  <a href="http://caraencoded.com/blogs/TOC.html">Back to blogs</a>
+</aside>
+</body>
+
+
+  <footer>
+    <ul>
+      <li><a href="https://github.com/cbrenn"><img src="../images/github-icon.png" alt="git hub icon">
+      </a></li>
+      <li><a href="https://www.linkedin.com/in/cara-brennan-13677258"><img src="../images/linkedin-icon.png" alt="linked in icon">
+
+      </a></li>
+      <li>cararbrennan @ gmail.com</li>
+      <li><a href="https://twitter.com/caraencoded"><img src= "../images/twitter-icon.png" alt="twitter icon">
+      </a></li>
+      <li><a href="https://instagram.com/caraencoded"><img src= "../images/inst-icon.png" alt="instagram icon">
+      </a></li>
+    </ul>
+  </footer>
+
+</body>
+
+
+
+</html>
