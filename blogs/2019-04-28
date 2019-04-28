@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="../style/styles.css">
+  <link rel="stylesheet"
+  href="../style/blog.css">
+</head>
+<body class="parallax blog mobile" title = "background blurry image of christmas tree lights on palm tree">
+
+  <header>
+    <nav>
+      <ul class = "nav-header">
+        <li><a href="../portfolio.html">portfolio</a>
+        </li>
+        <li><a href="../index.html">caraencoded</a>
+        </li>
+        <li><a href="../about.html">about</a></li>
+      </ul>
+    </nav>
+  </header>
+  <body class = "blog-entry">
+  <p>
+    <h2>Firewalk</h2>
+    <h3>April 28, 2019</h3>
+  </p>
+    <article class = "blog-text">
+    <section>
+      <p><i>
+        <aside>
+          At the end of the dock in Lake Union Park, there are two perspectives. Looking out across the water, and looking back to the city, to the sky scrapers. And you are held there suspended, like you are walking on fire between the sky and the water, nature and urbanity. I found a letter, not even folded, lilting on the edge. 
+        </aside>
+        </i>
+      </p>
+      <p>
+      Wane, </br>
+      </p>
+      <p>
+I wasn’t one then and I am not one now. You throw that word around so casually, abusive, like it was a name tag I could peel off the side of my jacket after a networking event. 
+</p>
+<p>
+It’s an energy you need in your life, someone to attack you, someone to hold you back from what you could be, what you are afraid of. I’m not going to hold that energy for you anymore. 
+You let me stay away now that I am not that. If I wanted to repay you, I know where you are.
+</p>
+<p>
+I still hear about you sometimes, and learn about what you are doing. Do you ask why I’m not there for you? Why I wasn’t there for you? I know you ask, I’ve heard you. 
+</p>
+<p>
+You wouldn’t want to eat this rich, though.I have everything I wanted, I accomplished what I wanted, got what I wanted, married famous, married rich, had children, established a well know dynasty. 
+</p>
+<p>
+When you die you wonder if people will remember you, remember what you contributed. I know they will. What was I supposed to do?  Stay poor, stay disconnected and wait for things to connect to come to fruition? Give up my understanding of the world and my success to bind with you in your poverty stricken studio? While you were on drugs? While your life was falling apart and you unable to grasp any energy that might keep it in place or drive it forward? Am I supposed to apologize for accomplishing my dreams, for leaving, for doing?
+</p>
+<p>
+Like you need to hold that energy that pulls you down, you need to slip off the energy that can improve you. I’ve seen it more times than I can count. 
+</p>
+<p>
+Was I supposed to give up the good of my life to be known by you, to try with someone who can’t even see me? 
+</p>
+<p>
+I remember meeting you still, at the school with the weekend ASL course. I remember being young with you, I remember writing and wondering if you had heard it. Composing and wondering if it might reach you, how it might strike you and then this could be over and we could be reunited as the present and not just the dark, restricted space you let those experiences live in your reality. 
+</p>
+<p>
+It was good for me, to have an unattainable dream like that. It kept me moving, drove me forward. When it was clear that it wasn’t going to happen it allowed me to merge my work into another direction to view you as you truly were, I had a space to go off the deep end that returned money, prestige, creativity,  and fame. 
+</p>
+<p>
+Now I won’t apologize for the life I’ve had away from you. I won’t apologize for anything it seems. We both have nothing to be sorry for, and so entrenched in we don’t fucking know what for each other for so long. Isn’t that the world now, nothing to be sorry for. Isn’t that the world we were raised in. It’s no ones fault, it’s no one’s responsibility. Were we going to fight against it? I can’t remember. We do have that in common. 
+</p>
+<p>
+I still feel love for you, like someone might feel love for their first pet, their first love. But you are different. You are not even you anymore, you are no one and it is no ones fault. 
+And I am no one as well. I am not me. I am whatever survived.  I expect it is much the same for you. 
+</p>
+<p>
+If the future was an atomic bomb, we would be the fallout. 
+I don’t really know what the best is anymore, so I can’t wish that for you. I wish that you stop needing that energy in your life, I wish that you’ve never been assaulted, I wish that I’m nothing that means anything to you.
+</p>
+<p>
+And I wish that you could go back to never knowing who I was, but I would keep the songs, keep the music, keep my success. It was never going to be here for you, and maybe it would be better and more peaceful for you to never know. 
+</p>
+<p>
+Maybe it is better all the things that you didn’t know, the farce of understanding and the drive against it is a very modern concept. Maybe you understood more than I did, and that was why you were so ignorant of it for so long. 
+</p>
+<p>
+I am as uncomfortable and as comfortable as you are, leaving things untouched, leaving things unseen and that is our balance. Stasis, though never natural is the space that lets things exist together for a time without ripping each other apart.  
+</p>
+<p>
+Until the scales tip or the wheel moves in a way that neither of us are strong enough to resist it it will remain that way. Perhaps we can look forward to being on the same side someday, ripped by a force we so far can not predict. And when it changes maybe we will be new again together, worked over by forces we can’t control, unable to manifest our own impetus in our interactions. 
+Or maybe we will be dead by then, and only one of us remembered. 
+</p>
+
+        Love, </br>
+        Wax
+      </p>
+    </section>
+  </article>
+  <aside class = "linkTOC">
+  <a href="http://caraencoded.com/blogs/TOC.html">Back to blogs</a>
+</aside>
+</body>
+
+
+  <footer>
+    <ul>
+      <li><a href="https://github.com/cbrenn"><img src="../images/github-icon.png" alt="git hub icon">
+      </a></li>
+      <li><a href="https://www.linkedin.com/in/cara-brennan-13677258"><img src="../images/linkedin-icon.png" alt="linked in icon">
+
+      </a></li>
+      <li>cararbrennan @ gmail.com</li>
+      <li><a href="https://twitter.com/caraencoded"><img src= "../images/twitter-icon.png" alt="twitter icon">
+      </a></li>
+      <li><a href="https://instagram.com/caraencoded"><img src= "../images/inst-icon.png" alt="instagram icon">
+      </a></li>
+    </ul>
+  </footer>
+
+</body>
+
+</html>
+
