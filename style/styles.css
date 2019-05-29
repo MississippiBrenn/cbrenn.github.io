@@ -62,7 +62,7 @@ header{
 
 
 .article-item{
-  font-size: 2em;
+  font-size: 1em;
   display:flex;
   flex-direction: column;
   align-content: left;
