@@ -108,7 +108,7 @@ h2{
 .article-item{
   font-size: 2em;
   display:flex;
-  flex-direction: row;
+  flex-direction: column;
   align-content: center;
   margin:2em;
 }
