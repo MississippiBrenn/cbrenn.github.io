@@ -90,9 +90,11 @@ h1{
   text-align: center;
   margin: 1em;
 }
+
 main.site-container{
   width:100%;
 }
+
 article{
 display:flex;
 justify-content: space-around;
@@ -102,7 +104,13 @@ align-content: center;
 
 
 h2{
-  text-align: center
+  text-align: center;
+}
+
+p .article-item{
+    font-size: 1em; 
+     align-content: center;
+     margin:1em;
 }
 
 .article-item{
@@ -120,6 +128,7 @@ a{
 
 .article-item h2{
   margin:1em;
+  text-align: center; 
 }
 
 .sub-article-item{
