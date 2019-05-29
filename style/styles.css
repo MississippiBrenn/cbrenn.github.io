@@ -25,7 +25,7 @@ background-color: white;
 
 background-image: url('../images/background3.jpg');
     /* Set a specific height */
-    height: 500px;
+    height: 100px;
 
 
     /* Create the parallax scrolling effect */
@@ -40,6 +40,19 @@ header{
   margin: 10%
 }
 
+.article-item h2{
+  margin:1em;
+  text-align: left; 
+}
+
+.sub-article-item{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  flex-wrap: wrap;
+  width: 30%;
+}
 
 .nav-header{
   display:flex;
@@ -107,39 +120,17 @@ h2{
   text-align: center;
 }
 
-p .article-item{
-    font-size: 1em; 
-     align-content: center;
-     margin:1em;
-}
-
 .article-item{
-  font-size: 2em;
+  font-size: 1em;
   display:flex;
   flex-direction: column;
-  align-content: center;
-  margin:2em;
+  align-content: left;
 }
 
 a{
   color:black;
   text-decoration: none;
 }
-
-.article-item h2{
-  margin:1em;
-  text-align: center; 
-}
-
-.sub-article-item{
-  display:flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  width: 30%;
-}
-
 
 footer ul{
   display:flex;
