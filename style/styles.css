@@ -23,7 +23,7 @@ background-color: white;
 .parallax {
     /* The image used */
 
-background-image: url('../images/background3.jpg');
+background-image: url('../images/background31min.jpg');
     /* Set a specific height */
     height: 100px;
 
@@ -41,6 +41,10 @@ header{
 
 .article-item h2{
  height: 5%  
+}
+
+h2{
+text-align: right;
 }
 
 .sub-article-item{
