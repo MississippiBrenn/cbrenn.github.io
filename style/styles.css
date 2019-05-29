@@ -37,11 +37,10 @@ background-image: url('../images/background3.jpg');
 
 header{
   width: 100%
-  margin: 10%
 }
 
 .article-item h2{
-  text-align: left; 
+ height: 5%
  padding: .5em;
  margin: .5em;    
 }
@@ -53,6 +52,20 @@ header{
   align-items: left;
   flex-wrap: wrap;
   width: 30%;
+}
+
+
+#tagline{
+  font-size: 1em;
+  text-align: left;
+}
+
+
+.article-item{
+  font-size: 2em;
+  display:flex;
+  flex-direction: column;
+  align-content: left;
 }
 
 .nav-header{
@@ -96,13 +109,6 @@ h1{
 }
 
 
-
-#tagline{
-  font-size: 2em;
-  text-align: center;
-  margin: 1em;
-}
-
 main.site-container{
   width:100%;
 }
@@ -121,12 +127,7 @@ h2{
   padding:.5em;
 }
 
-.article-item{
-  font-size: 1em;
-  display:flex;
-  flex-direction: column;
-  align-content: left;
-}
+
 
 a{
   color:black;
