@@ -58,7 +58,7 @@ text-align: right;
 
 
 #tagline{
-  font-size: 1em;
+  font-size: 1.5em;
   text-align: left;
   margin-bottom: 0;
   font-style: italic;
@@ -66,7 +66,7 @@ text-align: right;
 
 
 .article-item{
-  font-size: .5em;
+  font-size: 1em;
   display:flex;
   flex-direction: column;
   align-content: left;
